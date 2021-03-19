@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="PhoneBook_JDBC_PROJECT">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="PhoneBook_JDBC_PROJECT"/>
+        <property name="java-output-path" value="/PhoneBook_JDBC_PROJECT/build/classes"/>
+    </wb-module>
+</project-modules>
